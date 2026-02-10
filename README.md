@@ -6,12 +6,9 @@
 2. Open that directory on cmd.
 3. Download "flask" library using "pip install flask"
 4. Write in cmd "flask run"
-5. Follow the given link
 
 
 ## Website guide
-
-Video: https://youtu.be/qyjfihAn-8s
 
 1. In the first page of my website you can see login. You have to create account and enter to there
 2. Adter you can create tasks, you have to fill fields title, descriprion and choose deadline of this task
